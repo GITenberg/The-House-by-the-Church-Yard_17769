@@ -1,0 +1,39 @@
+_repo: The-House-by-the-Church-Yard_17769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, Joseph Sheridan Le
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: "The House by the Churchyard (1863) is a novel by Sheridan Le Fanu that\
+  \ combines elements of the mystery novel and the historical novel. Aside from its\
+  \ own merits, the novel is important as a key source for James Joyce's Finnegans\
+  \ Wake.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17769'
+  wikidata: Q4165605
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Ireland -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Ireland -- Social life and customs -- 18th century -- Fiction'
+title: The House by the Church-Yard
+url: http://www.gutenberg.org/ebooks/17769
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D1%83_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B0
+- https://en.wikipedia.org/wiki/The_House_by_the_Churchyard
