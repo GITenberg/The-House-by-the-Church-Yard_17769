@@ -19,6 +19,8 @@ description: "The House by the Churchyard (1863) is a novel by Sheridan Le Fanu 
   \ combines elements of the mystery novel and the historical novel. Aside from its\
   \ own merits, the novel is important as a key source for James Joyce's Finnegans\
   \ Wake.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17769#The-House-by-the-Church-Yard
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
 identifiers:
